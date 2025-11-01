@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">smart-access</string>
+    <string name="control_de_acceso">Control de Acceso</string>
+    <string name="seleccionar_personal">Seleccionar Personal:</string>
+    <string name="registrar_entrada">Registrar Entrada</string>
+    <string name="registrar_salida">Registrar Salida</string>
+    <string name="seleccione_personal_y_accion">Seleccione personal y acción</string>
+    <string name="username">Usuario</string>
+    <string name="login">Inicia Sesión</string>
+    <string name="signup">Regístrate</string>
+    <string name="password">Contraseña</string>
+    <string name="registrarse">Registrarse</string>
+    <string name="inicio_de_sesion">Ingresar</string>
+</resources>
