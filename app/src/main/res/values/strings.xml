@@ -11,4 +11,6 @@
     <string name="password">Contraseña</string>
     <string name="registrarse">Registrarse</string>
     <string name="inicio_de_sesion">Ingresar</string>
+    <string name="alreadySignedUp">Ya tienes una cuenta? Inicia sesión</string>
+    <string name="new_account">Crear una Cuenta Nueva</string>
 </resources>
